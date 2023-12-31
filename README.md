@@ -1,0 +1,1 @@
+This is a project for The Odin Project that is made in HTML5 showcasing my understanding of the basics of HTML.
